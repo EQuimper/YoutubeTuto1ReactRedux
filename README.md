@@ -56,3 +56,9 @@ Backend with express and this is a simple api
   - DevTools
 
 3. Add the Provider for connect to react
+
+# Episode 2
+
+1. Setup react-router
+
+2. Talk about children in react
