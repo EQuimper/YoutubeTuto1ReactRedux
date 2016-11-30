@@ -62,3 +62,13 @@ Backend with express and this is a simple api
 1. Setup react-router
 
 2. Talk about children in react
+
+# Episode 3
+
+1. Setup Semantic-Ui
+
+2. Setup the navbar
+
+3. Setup 404
+
+3. Form for signup/login ui
