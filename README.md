@@ -45,7 +45,7 @@ Full features list app
 
 Backend with express and this is a simple api
 
-# Episode 1
+# [Episode 1](https://www.youtube.com/watch?v=kkNNkatU4MQ&index=1&list=PLzQWIQOqeUSMt6kTZnX5nY682Kd_ZyHJW)
 
 1. Install Create-React-App
 
@@ -57,13 +57,13 @@ Backend with express and this is a simple api
 
 3. Add the Provider for connect to react
 
-# Episode 2
+# [Episode 2](https://www.youtube.com/watch?v=5RBi1-LAWoc&index=2&list=PLzQWIQOqeUSMt6kTZnX5nY682Kd_ZyHJW)
 
 1. Setup react-router
 
 2. Talk about children in react
 
-# Episode 3
+# [Episode 3](https://www.youtube.com/watch?v=5Bytq6LNDO4&list=PLzQWIQOqeUSMt6kTZnX5nY682Kd_ZyHJW&index=3)
 
 1. Setup Semantic-Ui
 
@@ -73,7 +73,7 @@ Backend with express and this is a simple api
 
 3. Form for signup/login ui
 
-# Episode 4
+# [Episode 4](https://www.youtube.com/watch?v=kFArZ5SnuRE&index=4&list=PLzQWIQOqeUSMt6kTZnX5nY682Kd_ZyHJW)
 
 1. What is children
 2. Reusable Component
