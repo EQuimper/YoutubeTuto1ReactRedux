@@ -72,3 +72,9 @@ Backend with express and this is a simple api
 3. Setup 404
 
 3. Form for signup/login ui
+
+# Episode 4
+
+1. What is children
+2. Reusable Component
+3. Function value
