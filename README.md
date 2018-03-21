@@ -27,11 +27,11 @@
   - Routes.js
   - App.js
 
-- More easy to add new features
+- Easier add new features
 - Easy to follow
 
 - Using Promise for the api fetching
-- How debug with the DevTools
+- How to debug using the DevTools
 
 # What we build ?
 
@@ -43,7 +43,7 @@ Full features list app
   - feeds
   - user can like
 
-Backend with express and this is a simple api
+Backend with express and a simple api
 
 # [Episode 1](https://www.youtube.com/watch?v=kkNNkatU4MQ&index=1&list=PLzQWIQOqeUSMt6kTZnX5nY682Kd_ZyHJW)
 
